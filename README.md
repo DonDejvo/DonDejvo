@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DonDejvo
+- 👋 Hi, I’m David
 - 👀 I’m interested in games
 - 🌱 I’m working on javascript 2D game library Lancelot.js
 - 💞️ I’m looking to collaborate on whatever
