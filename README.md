@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DonDejvo
 - 👀 I’m interested in games
-- 🌱 I’m currently learning 3d and java
+- 🌱 I’m working on javascript 2D game library Lancelot.js
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me
 
